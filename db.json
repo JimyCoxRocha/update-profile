@@ -1,0 +1,14 @@
+{
+  "update": {
+    "error": false,
+    "typeError": "",
+    "numRows": 2,
+    "messages": [
+        "Proceso ejecutado correctamente."
+    ],
+    "data": [
+        "[CORRECTO: Se guardó la opción con idProfile: 101 y idOpcion: 2] ",
+        "[CORRECTO: Se guardó la opción con idProfile: 101 y idOpcion: 1] "
+    ]
+  }
+}
